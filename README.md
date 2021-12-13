@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone! I'm Marta Buesa 👋😃</h1>
-<h3 align="center">Expert consultant in Business Intelligence, Data Analyst and Strategic Projects with an impact on Business Development in Madrid (Spain)</h3>
+<h3 align="center">Specialist consultant in Business Intelligence, Data Analyst and Strategic Projects with an impact on Business Development in Madrid (Spain)</h3>
 
 - 👍 Actually I'm studing [Data Science & Machine Learning](https://www.thebridge.tech/)
 
