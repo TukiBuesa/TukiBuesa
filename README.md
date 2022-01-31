@@ -25,6 +25,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="GoogleColab" width="40px" height="40px"/>
   <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="Anaconda" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/384px-Sqlite-square-icon.svg.png" alt="sqlitestudio" width="40px" height="40px"/>
+  <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="trello" width="40px" height="40px"/>
 </p>
   
 <h3 align="left">Data Analysis:</h3>
@@ -35,14 +37,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="120" height="40">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="openstreetmap" width="40" height="40">
-  
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="80" height="40">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="60" height="30">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="40" height="40">
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40px" height="40px"/>
-
 </p>
 
+  <h3 align="left">Machine Learning:</h3>
+<p align="left"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" width="80px" height="40px"/>
+</p> 
 
 
 <!--
