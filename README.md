@@ -39,6 +39,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="120" height="40">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="openstreetmap" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OOjs_UI_icon_regular-expression.svg/1200px-OOjs_UI_icon_regular-expression.svg.png" alt="regex" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" alt="googleanalytics" width="40" height="40">
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="60" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"  alt="ppt" width="40" height="40">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="40" height="40">
