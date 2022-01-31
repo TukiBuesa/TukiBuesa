@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40px" height="40px"/>
@@ -26,19 +26,22 @@
   <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="Anaconda" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40px" height="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/384px-Sqlite-square-icon.svg.png" alt="sqlitestudio" width="40px" height="40px"/>
-  <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="trello" width="40px" height="40px"/>
+  <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="trello" width="35px" height="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40px" height="40px"/>
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40px" height="40px"/>
 </p>
   
 <h3 align="left">Data Analysis:</h3>
 <p align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="60px" height="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="numpy" width="40px" height="40px"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="120" height="40">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="openstreetmap" width="40" height="40">
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="60" height="30">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="20" height="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"  alt="ppt" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="40" height="40">
 </p>
 
   <h3 align="left">Machine Learning:</h3>
