@@ -31,14 +31,14 @@
   
 <h3 align="left">Data Analysis:</h3>
 <p align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="60px" height="60px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="numpy" width="40px" height="40px"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="120" height="40">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="openstreetmap" width="40" height="40">
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="60" height="30">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="20" height="20">
 </p>
 
   <h3 align="left">Machine Learning:</h3>
