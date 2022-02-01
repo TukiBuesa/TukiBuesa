@@ -11,6 +11,7 @@
 
 - ⚡ Always ready **to learn!!**
 
+
 <h3 align="left">Connect with me:</h3>
 <div> 
   <a href = "mailto:martabuesasuarez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -65,4 +66,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="right"> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TukiBuesa&layout=compact" </p>
 -->
