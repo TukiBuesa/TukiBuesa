@@ -16,7 +16,7 @@
   <a href = "mailto:martabuesasuarez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/martabuesasuarezdepuga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Language and Tools:</h3>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40px" height="40px"/>
@@ -31,7 +31,7 @@
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40px" height="40px"/>
 </p>
   
-<h3 align="left">Data Analysis:</h3>
+<h3 align="left">Data Analysis & Visualization:</h3>
 <p align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="numpy" width="40px" height="40px"/>
