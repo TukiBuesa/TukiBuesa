@@ -44,6 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" alt="MARTABUESAgoogleanalytics" width="40" height="40">
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="MARTABUESAstreamlit" width="60" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"  alt="MARTABUESAppt" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png"  alt="MARTABUESApowerbi" width="40" height="40">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="MARTABUESAtableau" width="40" height="40">
 </p>
 
@@ -55,7 +56,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="MARTABUESAopenCV" width="30px" height="40px"/>
 </p> 
 
-
+  <h3 align="left">Productivización:</h3>
+<p align="left"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="MARTABUESAflask" width="120px" height="40px"/>
+  <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" alt="MARTABUESApythonanywhere" width="200px" height="60px"/>
+</p> 
+  
+  
 <!--
 **TukiBuesa/TukiBuesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
