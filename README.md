@@ -5,7 +5,7 @@
 
 - 🎯 Next milestone, **a new opportunity!**
 
-- 🎻 Passionate about violin **and family fun fan 👨‍👩‍👧‍👦**
+- 🎻 Passionate about **violin** and **family fun fan 👨‍👩‍👧‍👦**
 
 - 🤝 I’m looking for good vibes **and passionate data people!**
 
