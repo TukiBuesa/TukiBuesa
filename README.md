@@ -34,25 +34,25 @@
   
 <h3 align="left">Data Analysis & Visualization:</h3>
 <p align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="numpy" width="40px" height="40px"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="120" height="40">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="openstreetmap" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OOjs_UI_icon_regular-expression.svg/1200px-OOjs_UI_icon_regular-expression.svg.png" alt="regex" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" alt="googleanalytics" width="40" height="40">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="streamlit" width="60" height="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"  alt="ppt" width="40" height="40">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="tableau" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="MARTABUESAnumpy" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="MARTABUESApandas" width="40px" height="40px"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="MARTABUESAseaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="MARTABUESAmatplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="MARTABUESAplotly" width="120" height="40">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" alt="MARTABUESAopenstreetmap" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OOjs_UI_icon_regular-expression.svg/1200px-OOjs_UI_icon_regular-expression.svg.png" alt="MARTABUESAregex" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png" alt="MARTABUESAgoogleanalytics" width="40" height="40">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png"  alt="MARTABUESAstreamlit" width="60" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png"  alt="MARTABUESAppt" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"  alt="MARTABUESAtableau" width="40" height="40">
 </p>
 
   <h3 align="left">Machine Learning:</h3>
 <p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" width="80px" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="40px" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40px" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="openCV" width="30px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="MARTABUESAscikitlearn" width="80px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="MARTABUESAtensorflow" width="40px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="MARTABUESAkeras" width="40px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="MARTABUESAopenCV" width="30px" height="40px"/>
 </p> 
 
 
