@@ -19,18 +19,20 @@
 
 <h3 align="left">Language and Tools:</h3>
 <p align="left"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40px" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="GoogleColab" width="40px" height="40px"/>
-  <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="Anaconda" width="40px" height="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40px" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/384px-Sqlite-square-icon.svg.png" alt="sqlitestudio" width="40px" height="40px"/>
-  <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="trello" width="35px" height="35px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40px" height="40px"/>
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40px" height="40px"/>
-  <img src="https://t-position.com/wp-content/uploads/2020/01/HubSpo-inboundmarketing.jpg" alt="hubspot" width="80px" height="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="MARTABUESApython" width="50px" height="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="MARTABUESAgit" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="MARTABUESAgithub" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="MARTABUESAvscode" width="40px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="MARTABUESAgoogleColab" width="40px" height="40px"/>
+  <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" alt="MARTABUESAanaconda" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="MARTABUESAjupyter" width="40px" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/384px-Sqlite-square-icon.svg.png" alt="MARTABUESAsqlitestudio" width="40px" height="40px"/>
+  <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="MARTABUESAtrello" width="35px" height="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="MARTABUESAslack" width="40px" height="40px"/>
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="MARTABUESAdiscord" width="40px" height="40px"/>
+  <img src="https://t-position.com/wp-content/uploads/2020/01/HubSpo-inboundmarketing.jpg" alt="MARTABUESAhubspot" width="80px" height="50px"/>
+  <img src="https://yt3.ggpht.com/FhwRzFlK8wlEo-xFmpmgk912fCqyyD5eTxyXVK2ZjpGDBHnkOc_Yqy5teVlZg9jWk4Qv6cC2v6Y=s900-c-k-c0x00ffffff-no-rj"alt="MARTABUESAlucidchart" width="50px" height="50px"/>
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/e1/d1/fce1d1cc-7b50-4558-5cea-cd3283b32859/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" alt="MARTABUESAmiro" width="80px" height="40px"/>
 </p>
   
 <h3 align="left">Data Analysis & Visualization:</h3>
