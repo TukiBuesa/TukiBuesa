@@ -30,6 +30,7 @@
   <img src="https://user-images.githubusercontent.com/92160549/151884703-5c97e90c-0fff-4d73-9799-14a75e0bf133.png" alt="trello" width="35px" height="35px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40px" height="40px"/>
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40px" height="40px"/>
+  <img src="https://t-position.com/wp-content/uploads/2020/01/HubSpo-inboundmarketing.jpg" alt="hubspot" width="80px" height="50px"/>
 </p>
   
 <h3 align="left">Data Analysis & Visualization:</h3>
